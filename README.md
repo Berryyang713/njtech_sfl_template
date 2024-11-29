@@ -35,12 +35,12 @@ Diese Template enthält die folgenden Verbesserungen gegenüber dem Original:
 Nach dem Standard wird die Format der Fußnote formuliert.
 
 # LaTeX-Version
-Diese Template basiert auf [Thesis Template for TH Deggendorf] von Prof. Dr. Andreas Fischer {https://www.overleaf.com/latex/templates/thesis-template-for-th-deggendorf/nwnndpxfttrb} und wird teilweise verändert. Diese Vorlage folgt der CC-BY-SA 4.0-Vereinbarung. Wenn Sie sie ändern möchten, lesen Sie bitte den Originaltext der Vereinbarung: [CC-BY-SA 4.0]{https://creativecommons.org/licenses/by/4.0/deed.en}
+Diese Template basiert auf [Thesis Template for TH Deggendorf] von Prof. Dr. Andreas Fischer (https://www.overleaf.com/latex/templates/thesis-template-for-th-deggendorf/nwnndpxfttrb) und wird teilweise verändert. Diese Vorlage folgt der CC-BY-SA 4.0-Vereinbarung. Wenn Sie sie ändern möchten, lesen Sie bitte den Originaltext der Vereinbarung: [CC-BY-SA 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
 ## Struktur
 |Teil|Ort|Komponenten|
 |:-----:|:------:|:--------:|
 |Umschlag|`/thesis/thesis.tex`|Variable mit `\newcommand`|
-|Erklärung|`/thesis/declaration.tex`|Keine verfügbar in dieser Template. Wenn es nötig ist, bitte von der [Quelle]{https://www.overleaf.com/latex/templates/thesis-template-for-th-deggendorf/nwnndpxfttrb} hinzuzufügen|
+|Erklärung|`/thesis/declaration.tex`|Keine verfügbar in dieser Template. Wenn es nötig ist, bitte von der [Quelle](https://www.overleaf.com/latex/templates/thesis-template-for-th-deggendorf/nwnndpxfttrb) hinzuzufügen|
 |Abstrakt|`/thesis/thesis.tex`|Ein Beispieltext der Abstrakt|
 |Hauptteil|`/thesis/main.tex`|Ein Beispieltext des Hauptteils|
 |Literaturverzeichnis|`/thesis/references.bib`|Man muss die Literatur in `/thesis/references.bib` zuerst hinzufügen und dann in `/thesis/main.tex` zitieren|
