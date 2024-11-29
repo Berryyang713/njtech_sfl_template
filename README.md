@@ -9,6 +9,8 @@ Diese Template ist ein Beispiel für die Finalarbeit mit ohne zusätzlichen Auff
 |Software|Microsoft Word (*Achtung:* Software-Mischung führt vielleicht zur Störung der Format.)|TexLive|
 |Version|Office 2016 od. neuer|Keine Beschränkung|
 |Makro|Keine|normale Makros, *ctex*|
+### 3. Die Word-eigenen Tools zum Rendern der PDF-Datei verwenden
+Sie müssen die Word-eigenen Tools zum Rendern der PDF-Datei verwenden. Irgendes Werkzeug wie *Adobe Acrobat PDF* konnte Fehler bei der Konvertierung haben. Um eine PDF-Datei zu konvertieren, müssen Sie: Kopie Speichern (od. F12) --> Dateityp als PDF auswählen --> Speichern
 ## Verbesserung
 Diese Template enthält die folgenden Verbesserungen gegenüber dem Original:
 ### 1. Der Umschlag optimiert
