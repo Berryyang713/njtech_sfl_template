@@ -49,12 +49,14 @@ Diese Template basiert auf [Thesis Template for TH Deggendorf](https://www.overl
 |Generierte Dateien|`/Makefile`|Generierte PDF-Datei|
 *Achtung: Die Inhaltsverzeichnis wird automatisch generiert!*
 ## Genutzte LaTeX-Package
-  `\usepackage[utf8]{inputenc}`
-  `\usepackage{graphicx}`
-  `\usepackage{booktabs}`
-  `\usepackage{url}`
-  `\usepackage{relsize}`
-  `\usepackage{hyperref}`
-  `\usepackage{libertine}`
-  `\usepackage{ifthen}`
-  `\usepackage{fancyhdr}`
+```
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{url}
+\usepackage{relsize}
+\usepackage{hyperref}
+\usepackage{libertine}
+\usepackage{ifthen}
+\usepackage{fancyhdr}
+```
