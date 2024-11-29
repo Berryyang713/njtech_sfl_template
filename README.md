@@ -1,4 +1,5 @@
 Template für die Fakultät der Fremdsprachen und Literatur, Nanjing Tech University <br>
+=========
 DE: Eine Latex und DOCX Template für die allgemeine Finalarbeit der Nanjing Tech University (Für die Sprachlernenden und die Fakultät der Fremdsprachen und Literatur verarbeitet) <br>
 中文：为南京工业大学普通结课作业设计的Latex和DOCX模板（依据语言学习者及外语学院要求设计） <br>
 EN: A Latex and DOCX Template for the normal course thesis of Nanjing Tech University (Designated for the students majoring in Languages and School of Foreign Languages and Literature) <br>
