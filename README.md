@@ -46,3 +46,15 @@ Diese Template basiert auf [Thesis Template for TH Deggendorf](https://www.overl
 |Literaturverzeichnis|`/thesis/references.bib`|Man muss die Literatur in `/thesis/references.bib` zuerst hinzufügen und dann in `/thesis/main.tex` zitieren|
 |Bilder|`/pictures`|Hier gibt es ein Beispiel: `/pictures/sample_pic.png`. Man kann die Bilder in diesem Ordner hinzufügen und im Artikel zitieren mit `\includegraphics`|
 |Logo|`/logo`|Zwei Datei-Formaten des Logos werden geboten: `/logo/nanjing_tech.svg` und `/logo/nanjing_tech.ai`|
+|Generierte Dateien|`/Makefile`|Generierte PDF-Datei|
+*Achtung: Die Inhaltsverzeichnis wird automatisch generiert!*
+## Genutzte LaTeX-Package
+  `\usepackage[utf8]{inputenc}
+  \usepackage{graphicx}
+  \usepackage{booktabs}
+  \usepackage{url}
+  \usepackage{relsize}
+  \usepackage{hyperref}
+  \usepackage{libertine}
+  \usepackage{ifthen}
+  \usepackage{fancyhdr}`
