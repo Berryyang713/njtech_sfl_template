@@ -5,7 +5,7 @@ Diese Template ist ein Beispiel für die Finalarbeit mit ohne zusätzlichen Auff
 Überprüfen Sie, dass Sie die Schriftarten "Times New Roman" und "Helvetica" heruntergeladen und installiert in Ihrem PC haben. Um eine Schriftart zu installieren, muss man die Schriftart herunterladen und dann verschiebt man in die folgende Ordner: `C:\Windows\Fonts`.
 ### 2. Die Umgebung konfigurieren
 |Umgebung|DOCX|Latex|
-|:-----:||:------:||:--------:|
+|:-----:|:------:|:--------:|
 |Software|Microsoft Word (*Achtung:* Software-Mischung führt vielleicht zur Störung der Format.)|TexLive|
 |Version|Office 2016 od. neuer|Keine Beschränkung|
 |Makro|Keine|normale Makros, *ctex*|
@@ -18,10 +18,10 @@ Diese Template enthält die folgenden Verbesserungen gegenüber dem Original:
 ### 2. Die Fußzeile optimiert
 * Die Seitenzahlen in den Fußzeilen wurden je nach Abschnitt optimiert, indem von fortlaufenden Seitenzahlen zu Seitenzahlen mit unterschiedlichen Bezeichnungen für verschiedene Abschnitte übergegangen wurde.
 |Typ|Seitenzahl|
-|:-----:||:------:|
-|Umschlag||Keine|
-|Inhaltsverzeichnis||Keine|
-|Hauptteil||1,2,3,...|
+|:-----:|:------:|
+|Umschlag|Keine|
+|Inhaltsverzeichnis|Keine|
+|Hauptteil|1,2,3,...|
 |Literaturverzeichnis|i,ii,iii,...|
 |Anhang|iv,v,vi,... (mit vorherigen verknüpft)|
 * Die einzelnen Abschnitte werden neu nummeriert und das Format der automatisch generierten Seitenzahlen im Inhaltsverzeichnis werden synchorisiert.
