@@ -61,7 +61,7 @@ Diese Template basiert auf [Thesis Template for TH Deggendorf](https://www.overl
 \usepackage{fancyhdr}
 ```
 ## Anhang
-Für die `README.md` und das Syntax der Markdown bitte sehen Sie nach: [Markdown Syntax](https://markdown.com.cn/extended-syntax/)
-Für die Grundwissen der LaTeX bitte sehen Sie nach: [StackExchange](https://tex.stackexchange.com/), [The Overleaf Tutorials](https://www.overleaf.com/learn)
-Für das Konvertieren des Schema zwischen GUI (Graphic User Interface) und LaTeX Syntax bitte sehen Sie nach: [Axmath](https://github.com/loongmxbt/AxMath)
-Für die Generierung der Tabelle bitte sehen Sie nach: [Tables Generator](https://www.tablesgenerator.com/)
+Für die `README.md` und das Syntax der Markdown bitte sehen Sie nach: [Markdown Basic Syntax](https://markdown.com.cn/basic-syntax/), [Markdown Extended Syntax](https://markdown.com.cn/extended-syntax/) 
+Für die Grundwissen der LaTeX bitte sehen Sie nach: [StackExchange](https://tex.stackexchange.com/), [The Overleaf Tutorials](https://www.overleaf.com/learn) 
+Für das Konvertieren des Schema zwischen GUI (Graphic User Interface) und LaTeX Syntax bitte sehen Sie nach: [Axmath](https://github.com/loongmxbt/AxMath) 
+Für die Generierung der Tabelle bitte sehen Sie nach: [Tables Generator](https://www.tablesgenerator.com/) 
