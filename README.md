@@ -35,7 +35,7 @@ Diese Template enthält die folgenden Verbesserungen gegenüber dem Original:
 Nach dem Standard wird die Format der Fußnote formuliert.
 
 # LaTeX-Version
-Diese Template basiert auf [Thesis Template for TH Deggendorf] von Prof. Dr. Andreas Fischer (https://www.overleaf.com/latex/templates/thesis-template-for-th-deggendorf/nwnndpxfttrb) und wird teilweise verändert. Diese Vorlage folgt der CC-BY-SA 4.0-Vereinbarung. Wenn Sie sie ändern möchten, lesen Sie bitte den Originaltext der Vereinbarung: [CC-BY-SA 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
+Diese Template basiert auf [Thesis Template for TH Deggendorf](https://www.overleaf.com/latex/templates/thesis-template-for-th-deggendorf/nwnndpxfttrb) von Prof. Dr. Andreas Fischer  und wird teilweise verändert. Diese Vorlage folgt der CC-BY-SA 4.0-Vereinbarung. Wenn Sie sie ändern möchten, lesen Sie bitte den Originaltext der Vereinbarung: [CC-BY-SA 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
 ## Struktur
 |Teil|Ort|Komponenten|
 |:-----:|:------:|:--------:|
