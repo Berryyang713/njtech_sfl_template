@@ -1,0 +1,48 @@
+\documentclass[a4paper]{scrbook}
+
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{url}
+\usepackage{relsize}
+\usepackage{hyperref}
+\usepackage{libertine}
+\usepackage{ifthen}
+\usepackage{fancyhdr}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Replace these values
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\faculty}{Department der Germanistik, Fakultät der Fremdsprachen und Literatur}
+\newcommand{\thesistitleDE}{Betreff}
+\newcommand{\student}{Name}
+\newcommand{\matrnr}{202121122024}
+\newcommand{\submissiondate}{Datum}
+\newcommand{\supervisor}{Prüfungsleitung}
+\newcommand{\studies}{\textbf{Disziplin}}
+\newcommand{\degree}{Name des Unterrichts}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\renewcommand*{\UrlFont}{\ttfamily\smaller\relax}
+
+\begin{document}
+\pagestyle{headings}
+\pagenumbering{roman}
+\input{title}
+\input{declaration}
+
+\chapter*{Abstract}
+\addcontentsline{toc}{chapter}{Abstract}
+The abstract goes here
+
+\tableofcontents
+
+\cleardoublepage%
+\setcounter{page}{1}
+\pagenumbering{arabic}
+\input{main}
+
+\bibliographystyle{IEEEtran}
+\bibliography{references}
+\end{document}

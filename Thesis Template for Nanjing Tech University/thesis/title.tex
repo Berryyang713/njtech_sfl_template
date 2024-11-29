@@ -1,0 +1,45 @@
+\setkomafont{title}{\huge \scshape}
+\begin{titlepage}
+\begin{center}
+	{\usekomafont{subject}
+	Technische Universität Nanjing\\\faculty\par}
+	\vspace{.2cm}
+{\Large 2023-2024 Sommersemester \studies\\}
+\vspace{6\baselineskip}
+{\Huge\usekomafont{title}\thesistitleDE\par}
+\vspace{1cm}
+{\Huge\usekomafont{title}\thesistitleEN\par}
+\vspace{6\baselineskip}
+
+\usekomafont{publishers}
+Finalarbeit eingerichtet im Rahmen des Unterrichts:
+
+	\vspace{.2cm}
+	\emph{\degree}
+	\vspace{.2cm}
+
+\end{center}
+\vfill
+\parbox[t]{.4\textwidth}{\usekomafont{author}
+	Vorgelegt von:\\
+	\student\\
+	Matrikelnummer: \matrnr\par
+	\ifthenelse{\equal{\stammnr}{}}{}{
+	Stammnummer: \stammnr\par
+	}
+	\vspace{\baselineskip}
+	Am: \submissiondate\par
+}
+\hfill
+\parbox[t]{.4\textwidth}{\usekomafont{author}
+Prüfungsleitung:\\
+\supervisor%
+
+\ifthenelse{\equal{\secsupervisor}{}}{}
+{%
+\vspace{\baselineskip}
+Ergänzende Prüfende:\\
+\secsupervisor%
+}}
+\end{titlepage}
+\cleardoublepage\par
