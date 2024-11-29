@@ -29,3 +29,5 @@ Diese Template enthält die folgenden Verbesserungen gegenüber dem Original:
   |Anhang|iv,v,vi,... (mit vorherigen verknüpft)|
 
 * Die einzelnen Abschnitte werden neu nummeriert und das Format der automatisch generierten Seitenzahlen im Inhaltsverzeichnis werden synchorisiert.
+### 3. Die Format der Fußnote formuliert
+Nach dem Standard wird die Format der Fußnote formuliert.
