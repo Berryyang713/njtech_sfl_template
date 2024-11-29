@@ -18,7 +18,7 @@ Diese Template enthält die folgenden Verbesserungen gegenüber dem Original:
 ### 2. Die Fußzeile optimiert
 * Die Seitenzahlen in den Fußzeilen wurden je nach Abschnitt optimiert, indem von fortlaufenden Seitenzahlen zu Seitenzahlen mit unterschiedlichen Bezeichnungen für verschiedene Abschnitte übergegangen wurde.
 |Typ|Seitenzahl|
-|:-----:|:------:|
+|:-----:|:-----:|
 |Umschlag|Keine|
 |Inhaltsverzeichnis|Keine|
 |Hauptteil|1,2,3,...|
