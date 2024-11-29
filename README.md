@@ -18,12 +18,12 @@ Diese Template enthält die folgenden Verbesserungen gegenüber dem Original:
 ### 2. Die Fußzeile optimiert
 * Die Seitenzahlen in den Fußzeilen wurden je nach Abschnitt optimiert, indem von fortlaufenden Seitenzahlen zu Seitenzahlen mit unterschiedlichen Bezeichnungen für verschiedene Abschnitte übergegangen wurde.
 
-&emsp |Typ|Seitenzahl|
-|:-----:|:------:|
-|Umschlag|Keine|
-|Inhaltsverzeichnis|Keine|
-|Hauptteil|1,2,3,... |
-|Literaturverzeichnis|i,ii,iii,... |
-|Anhang|iv,v,vi,... (mit vorherigen verknüpft)|
+  |Typ|Seitenzahl|
+  |:-----:|:------:|
+  |Umschlag|Keine|
+  |Inhaltsverzeichnis|Keine|
+  |Hauptteil|1,2,3,... |
+  |Literaturverzeichnis|i,ii,iii,... |
+  |Anhang|iv,v,vi,... (mit vorherigen verknüpft)|
 
 * Die einzelnen Abschnitte werden neu nummeriert und das Format der automatisch generierten Seitenzahlen im Inhaltsverzeichnis werden synchorisiert.
