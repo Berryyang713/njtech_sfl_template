@@ -10,7 +10,7 @@ Diese Template ist ein Beispiel für die Finalarbeit mit ohne zusätzlichen Auff
 Überprüfen Sie, dass Sie die Schriftarten "Times New Roman" und "Helvetica" heruntergeladen und installiert in Ihrem PC haben. Um eine Schriftart zu installieren, muss man die Schriftart herunterladen und dann verschiebt man in die folgende Ordner: `C:\Windows\Fonts`. <br>
 Die Schriftarten enthalten: 
 * Times New Roman (Embeddet im OS)
-* Helvetica (Herunterladen: [Helvetica (Alle)](https://github.com/Berryyang713/njtech_sfl_template/tree/main/schriftarten)
+* Helvetica (Herunterladen: [Helvetica (Alle)](https://github.com/Berryyang713/njtech_sfl_template/tree/main/schriftarten))
 ### 2. Die Umgebung konfigurieren
 |Umgebung|DOCX|Latex|
 |:-----:|:------:|:--------:|
